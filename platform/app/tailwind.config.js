@@ -50,5 +50,53 @@ module.exports = {
       '5xl': '3rem',
       '6xl': '4rem',
     },
+    colors: {
+      overlay: 'rgba(0, 0, 0, 0.8)',
+      transparent: 'transparent',
+      black: "red",
+      white: "red",
+      initial: "red",
+      inherit: "red",
+      indigo: {
+        dark: "red",
+      },
+      aqua: {
+        pale: "red",
+      },
+
+      primary: {
+        light: "red",
+        main: "red",
+        dark: "red",
+        active: "red",
+      },
+
+      secondary: {
+        light: "red",
+        main: "red",
+        dark: "red",
+        active: "red",
+      },
+
+      common: {
+        bright: "red",
+        light: "red",
+        main: "red",
+        dark: "red",
+        active: "red",
+      },
+      gray: {
+        "500": "red"
+      },
+      customgreen: {
+        100: "red",
+      },
+
+      customblue: {
+        100: "red",
+        200: "red",
+      },
+    },
+
   },
 };
